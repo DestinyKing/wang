@@ -1,0 +1,6 @@
+[ 2018-01-16T14:26:10+08:00 ] ::1 /tp3.2.3/index/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Index
+
