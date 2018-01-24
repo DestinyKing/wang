@@ -9,5 +9,6 @@ class IndexController extends Controller {
     public function test()
     {
     	echo 234243;
+    	echo "afdafd";
     }
 }
